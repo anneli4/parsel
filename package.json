@@ -10,9 +10,8 @@
     "build": "parcel build"
   },
   "dependencies": {
-     "parcel": "latest"
+    "parcel": "latest"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anneli4/parsel.git"
@@ -23,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/anneli4/parsel/issues"
   },
-  "homepage": "https://github.com/anneli4/parsel#readme"
+  "homepage": "https://github.com/anneli4/parsel#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.3",
+    "sass": "^1.85.1"
+  }
 }
