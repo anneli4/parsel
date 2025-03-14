@@ -1,11 +1,18 @@
 {
   "name": "parcel",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build"
   },
+  "dependencies": {
+     "parcel": "latest"
+  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anneli4/parsel.git"
