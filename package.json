@@ -1,0 +1,20 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anneli4/parsel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anneli4/parsel/issues"
+  },
+  "homepage": "https://github.com/anneli4/parsel#readme"
+}
